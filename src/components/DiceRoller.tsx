@@ -3,7 +3,6 @@ import Dice from "./Dice"
 import { DiceKind } from "../types/DiceKind"
 import { Button } from "./ui/Button"
 
-// list of dice described by number of sides,
 const INITIAL_DICE_POOL: DiceKind[] = []
 
 const DiceRoller = () => {
