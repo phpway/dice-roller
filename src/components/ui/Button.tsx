@@ -1,5 +1,5 @@
 import React, { forwardRef } from "react"
-import { cn } from "../../utils"
+import { cn } from "@/lib/utils"
 import { VariantProps } from "class-variance-authority"
 import { buttonVariants } from "./variants"
 
